@@ -49,11 +49,7 @@ responsive-foodmunch-website/
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of your website here)
-
----
 
 ## 📌 Future Improvements
 
